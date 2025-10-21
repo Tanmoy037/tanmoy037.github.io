@@ -339,9 +339,12 @@ body {
     box-shadow: 0 15px 35px rgba(59, 130, 246, 0.4);
 }
 
-.stat-card-link .stat-number,
+.stat-card-link .stat-number {
+    color: #3b82f6;
+}
+
 .stat-card-link .stat-label {
-    color: inherit;
+    color: #cbd5e1;
 }
 
 .stat-number {
